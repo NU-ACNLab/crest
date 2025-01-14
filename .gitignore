@@ -1,0 +1,8 @@
+*~
+*data/
+*plots/
+*papers/
+*DS_Store
+*RData*
+*.csv
+*grant/
